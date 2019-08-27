@@ -1,0 +1,13 @@
+package javaclasssheji;
+
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+public class click_things implements ActionListener{
+	@Override
+	public void actionPerformed(ActionEvent e) {
+		// TODO Auto-generated method stub
+		
+	}
+	
+}
